@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+/Users/swethagolipally/Desktop/Test/Appium_TechnicalExercise_MobileSDET_18470781_SwethaGolipally/.metadata/.plugins/org.eclipse.jdt.core
+2657394288.index
+856918768.index
+2542497247.index
+1344849947.index
+3608027143.index
+3832915747.index
+2464330628.index
+513629821.index
+1865797976.index

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/swethagolipally/eclipse-workspace/Appium_TechnicalExercise_MobileSDET_18470781_SwethaGolipally"/>
+			<item value="/Users/swethagolipally/Desktop/eclipse/Appium_TechnicalExercise_MobileSDET_18470781_SwethaGolipally"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
